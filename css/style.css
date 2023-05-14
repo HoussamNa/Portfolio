@@ -455,7 +455,16 @@ section{
     align-items: center;
     justify-content: center;
   }
-  
+
+  .portfolio .box-container .box i {
+    font-size: 6rem;
+    padding-bottom: 1rem;
+    color: var(--green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 90px;
+  }
   .services1 .box-container .box i {
     font-size: 4rem;
     padding-bottom: 1rem;
