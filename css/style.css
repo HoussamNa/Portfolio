@@ -96,7 +96,7 @@ section{
     border:1rem solid transparent;
     border-radius: 50%;
     height: 18rem;
-    width: 18rem;
+    width: 17rem;
     box-shadow: var(--box-shadow);
 }
 
@@ -465,6 +465,18 @@ section{
     align-items: center;
     padding-top: 90px;
   }
+  .portfolio .box-container .box h3 {
+    font-size: 1rem;
+    padding-bottom: 1rem;
+    color: var(--black);
+  }
+  
+  .portfolio .box-container .box p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--light-color);
+  }
+
   .services1 .box-container .box i {
     font-size: 4rem;
     padding-bottom: 1rem;
